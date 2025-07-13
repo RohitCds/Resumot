@@ -55,6 +55,30 @@ Place it in:
 ---
 
 🧪 Running the App
+
+---
+
+📸 Sample Screenshots
+
+<details>
+  <summary>Click to expand</summary>
+
+  <p align="center">
+    <img src="screenshots/Screenshot1.png" alt="Sample Screenshot 1" width="600"/>
+  </p>
+  <p align="center">
+    <img src="screenshots/Screenshot2.png" alt="Sample Screenshot 2" width="600"/>
+  </p>
+  <p align="center">
+    <img src="screenshots/Screenshot3.png" alt="Sample Screenshot 3" width="600"/>
+  </p>
+  <p align="center">
+    <img src="screenshots/Screenshot4.png" alt="Sample Screenshot 4" width="600"/>
+  </p>
+
+</details>
+
+
 ```
 streamlit run main.py
 ```
