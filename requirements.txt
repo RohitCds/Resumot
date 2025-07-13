@@ -1,0 +1,6 @@
+streamlit
+chromadb
+sentence-transformers
+PyMuPDF
+langchain
+llama-cpp-python  # Required for GGUF inference (DeepSeek/Mistral)
